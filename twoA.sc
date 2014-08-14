@@ -1,6 +1,8 @@
 object twoA {
   println("Welcome to the Scala worksheet")
   
+  //Based on lecture 2A
+  
   def sumInt(a : Int , b : Int) : Int = {
   	if(a > b)
   		0

@@ -1,5 +1,7 @@
 object twoA {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(57); 
-  println("Welcome to the Scala worksheet");$skip(102); 
+  println("Welcome to the Scala worksheet");$skip(129); 
+  
+  //Based on lecture 2A
   
   def sumInt(a : Int , b : Int) : Int = {
   	if(a > b)
